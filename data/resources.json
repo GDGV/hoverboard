@@ -5,7 +5,6 @@
   "dates": "October 14, 2016",
   "locationAddressShort": "Vancouver, BC",
   "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
   "backToTop": "Back to top",
@@ -28,9 +27,9 @@
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "coming soon",
-  "locationDescription": "coming soon",
-  "locationAddress": "coming soon",
+  "locationTitle": "HootSuite",
+  "locationDescription": "Hootsuite is a platform for managing social media.",
+  "locationAddress": "5 E 8th Ave, Vancouver, BC V5T 1R6",
   "organizerTitle": "Organizer",
   "aboutOrganizers": "<a href='http://meetup.com/gdgcloudvancouver' target='_blank'>GDG Cloud Vancouver</a> with support of local communities is proud organizer of DevFest.",
   "openTeamPage": "Open team page",
@@ -111,8 +110,8 @@
       "caption": "Attendees"
     },
     {
-      "counter": 1,
-      "caption": "Day"
+      "counter": 2,
+      "caption": "Days"
     },
     {
       "counter": 15,

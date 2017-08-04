@@ -8,9 +8,9 @@
     "title": "General Sponsors"
   }, {
     "logos": [{
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "Coming soon!",
-      "url": "#"
+      "logoUrl": "../images/logos/hootsuite.png",
+      "name": "HootSuite",
+      "url": "https://hootsuite.com/"
     }],
     "title": "Venue Sponsor"
   }, {
@@ -57,17 +57,11 @@
       ],
       "startTime": "08:00"
     }, {
-      "endTime": "09:00",
+      "endTime": "09:30",
       "sessions": [
         [102]
       ],
       "startTime": "08:30"
-    }, {
-      "endTime": "09:30",
-      "sessions": [
-        [103]
-      ],
-      "startTime": "09:00"
     }, {
       "endTime": "10:30",
       "sessions": [
