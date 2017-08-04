@@ -1,63 +1,15 @@
 {
   "partners": [{
     "logos": [{
-      "logoUrl": "../images/logos/gdg-lviv.svg",
-      "name": "GDG Lviv",
-      "url": "https://plus.google.com/102444623953913144164",
-      "width": 170
-    }],
-    "title": "Template Creator"
-  }, {
-    "logos": [{
-      "logoUrl": "../images/logos/google.svg",
-      "name": "Google",
-      "url": "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "GDG[x]",
-      "url": "https://github.com/gdg-x"
-    }, {
-      "logoUrl": "../images/logos/google.svg",
-      "name": "Google",
-      "url": "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "GDG[x]",
-      "url": "https://github.com/gdg-x"
-    }, {
-      "logoUrl": "../images/logos/google.svg",
-      "name": "Google",
-      "url": "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "GDG[x]",
-      "url": "https://github.com/gdg-x"
-    }, {
-      "logoUrl": "../images/logos/google.svg",
-      "name": "Google",
-      "url": "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "GDG[x]",
-      "url": "https://github.com/gdg-x"
-    }, {
-      "logoUrl": "../images/logos/google.svg",
-      "name": "Google",
-      "url": "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "GDG[x]",
-      "url": "https://github.com/gdg-x"
-    }, {
       "logoUrl": "../images/logos/google.svg",
       "name": "Google",
       "url": "https://www.google.com.ua/intl/en/about/"
     }],
-    "title": "General Partner"
+    "title": "Gold Sponsors"
   }],
   "schedule": [{
-    "date": "2016-09-09",
-    "dateReadable": "September 9",
+    "date": "2017-10-14",
+    "dateReadable": "October 14",
     "timeslots": [{
       "endTime": "10:00",
       "sessions": [
@@ -159,8 +111,8 @@
       "title": "Workshops hall"
     }]
   }, {
-    "date": "2016-09-10",
-    "dateReadable": "September 10",
+    "date": "2016-10-14",
+    "dateReadable": "October 14",
     "timeslots": [{
       "endTime": "10:10",
       "sessions": [
@@ -651,19 +603,44 @@
     "shortBio": "Nishant is a Software Engineer (at) OmniLabs, Inc. He is a caffeine-dependent life-form who doubles up as an Open Source enthusiast at the same time and spends his time doodling when not hacking on Android.",
     "socials": [{
       "icon": "linkedin",
-      "link": "https://www.linkedin.com/in/vikramtiwari/",
+      "link": "https://www.linkedin.com/in/nisrulz/",
       "name": "LinkedIn"
     }, {
       "icon": "twitter",
-      "link": "https://twitter.com/vikram_tiwari/",
+      "link": "https://twitter.com/nisrulz/",
       "name": "Twitter"
     }, {
       "icon": "github",
-      "link": "https://github.com/vikramtiwari/",
+      "link": "https://github.com/nisrulz/",
       "name": "GitHub"
     }],
-    "tags": ["Web", "IoT", "Smart Home"],
-    "title": "Senior Developer Evangelist Connected Home"
+    "tags": ["Android", "Flutter", "Web"],
+    "title": "Senior Software Developer at Omni Labs"
+  }, {
+    "bio": "You!",
+    "company": "Your company",
+    "companyLogo": "/images/logos/you.svg",
+    "country": "Earth",
+    "featured": true,
+    "id": 3,
+    "name": "You",
+    "photoUrl": "/images/people/you.jpg",
+    "shortBio": "You",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/",
+      "name": "GitHub"
+    }],
+    "tags": ["Ninja", "Rockstar"],
+    "title": "Rockstar at Ninja Club"
   }],
   "team": [{
     "members": [{
@@ -728,9 +705,9 @@
       "name": "You?",
       "photoUrl": "/images/people/you.jpg",
       "socials": [{
-        "icon": "twitter",
-        "link": "https://twitter.com/",
-        "name": "Twitter"
+        "icon": "facebook",
+        "link": "https://www.facebook.com/",
+        "name": "Facebook"
       }, {
         "icon": "twitter",
         "link": "https://twitter.com/",
@@ -741,9 +718,9 @@
       "name": "You?",
       "photoUrl": "/images/people/you.jpg",
       "socials": [{
-        "icon": "twitter",
-        "link": "https://twitter.com/",
-        "name": "Twitter"
+        "icon": "facebook",
+        "link": "https://www.facebook.com/",
+        "name": "Facebook"
       }, {
         "icon": "twitter",
         "link": "https://twitter.com/",
