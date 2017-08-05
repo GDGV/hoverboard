@@ -5,6 +5,7 @@
   "dates": "October 14, 2016",
   "locationAddressShort": "Vancouver, BC",
   "motto": "Be a GDG. Be a Hero!",
+  "playIcon": "What is DevFest?",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
   "backToTop": "Back to top",
@@ -123,7 +124,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2017",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "GDG DevFest",
+    "videoId": "KMspeV34z64"
   }
 }

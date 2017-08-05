@@ -168,19 +168,19 @@
       "id": 103,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Google DevRel Presents"
     },
     "104": {
       "complexity": "Beginner",
-      "description": "Flutter",
+      "description": "Building Cross Platform apps with Flutter",
       "id": 104,
       "language": "English",
       "presentation": "#",
-      "speakers": [2],
+      "speakers": [3],
       "tags": ["Flutter"],
-      "title": "Flutter"
+      "title": "Building Cross Platform apps with Flutter"
     },
     "105": {
       "complexity": "Beginner",
@@ -188,7 +188,7 @@
       "id": 105,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Virtual Reality"
     },
@@ -198,7 +198,7 @@
       "id": 106,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Break"
     },
@@ -208,7 +208,7 @@
       "id": 107,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Android"
     },
@@ -218,7 +218,7 @@
       "id": 108,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Progressive Web Apps"
     },
@@ -228,7 +228,7 @@
       "id": 109,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Lunch"
     },
@@ -238,7 +238,7 @@
       "id": 110,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Lightning Talks"
     },
@@ -258,7 +258,7 @@
       "id": 112,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Internet of things"
     },
@@ -268,7 +268,7 @@
       "id": 113,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Snacks"
     },
@@ -278,7 +278,7 @@
       "id": 114,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Data Storage and Processing"
     },
@@ -288,7 +288,7 @@
       "id": 115,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Tensorflow and Machine Learning"
     },
@@ -298,7 +298,7 @@
       "id": 116,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Thank you session"
     },
@@ -308,7 +308,7 @@
       "id": 117,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Networking"
     },
@@ -318,7 +318,7 @@
       "id": 118,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [50],
       "tags": [],
       "title": "Close Venue"
     }
@@ -376,15 +376,45 @@
       "link": "https://github.com/nisrulz/",
       "name": "GitHub"
     }],
-    "tags": ["Android", "Flutter", "Web"],
+    "tags": ["Android", "Web"],
     "title": "Senior Software Developer at Omni Labs"
+  }, {
+    "badges": [{
+      "description": "Google Developers Expert, Web Technologies",
+      "link": "https://developers.google.com/experts/people/faisal-abid.html",
+      "name": "GDE"
+    }],
+    "bio": "Google Developer Expert for Web Technologies, Dart",
+    "company": "Zoom.ai",
+    "companyLogo": "/images/logos/zoom_ai.svg",
+    "country": "Toronto, Canada",
+    "featured": true,
+    "id": 3,
+    "name": "Faisal Abid",
+    "photoUrl": "/images/people/faisal_abid.jpg",
+    "shortBio": "Google Developer Expert for Web Technologies, Dart",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/faisalabid/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/FaisalAbid/",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/FaisalAbid/",
+      "name": "GitHub"
+    }],
+    "tags": ["Flutter", "Web Technologies", "Dart"],
+    "title": "Google Developer Expert for Web Technologies, Dart"
   }, {
     "bio": "You!",
     "company": "Your company",
     "companyLogo": "/images/logos/you.svg",
     "country": "Earth",
-    "featured": true,
-    "id": 3,
+    "featured": false,
+    "id": 50,
     "name": "You",
     "photoUrl": "/images/people/you.jpg",
     "shortBio": "You",
