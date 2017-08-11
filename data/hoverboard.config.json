@@ -66,17 +66,17 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Coming soon!",
-    "address": "",
-    "link": "",
+    "name": "HootSuite",
+    "address": "5 E 8th Ave, Vancouver, BC V5T 1R6",
+    "link": "https://hootsuite.com",
     "pointer": {
       "latitude": 49.2641425,
       "longitude": -123.1051459,
-      "zoom": 15
+      "zoom": 14
     },
     "mapCenter": {
-      "latitude": 49.2641425,
-      "longitude": -123.1051459
+      "latitude": 49.2656165,
+      "longitude": -123.1053306
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
