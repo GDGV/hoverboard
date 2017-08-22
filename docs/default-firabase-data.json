@@ -178,7 +178,7 @@
       "id": 104,
       "language": "English",
       "presentation": "#",
-      "speakers": [3],
+      "speakers": [4],
       "tags": ["Flutter"],
       "title": "Building Cross Platform apps with Flutter"
     },
@@ -331,9 +331,9 @@
     }],
     "bio": "Building scalable web platforms for high availability, resilience, and security. #GDE @GoogleCloud. Founding team member and all things tech @omnilabsinc",
     "company": "Omni Labs, Inc.",
-    "companyLogo": "/images/logos/omniinc.svg",
+    "companyLogo": "/images/logos/omni_labs.svg",
     "country": "Vancouver, Canada",
-    "featured": true,
+    "featured": false,
     "id": 1,
     "name": "Vikram Tiwari",
     "photoUrl": "/images/people/vikram_tiwari.jpg",
@@ -356,9 +356,9 @@
   }, {
     "bio": "Nishant is a Software Engineer/Founding Team Member (at) OmniLabs, Inc. with 4+ years of experience in Android SDK Engineering and DSP(Audio). He is the Co-Organizer (at) Google Developer Group Cloud Vancouver (GDGCV). He is a caffeine-dependent life-form who doubles up as an Open Source enthusiast at the same time and spends his time doodling when not hacking on Android. While working at his past company, he developed the company’s patented UAB (Unique Audio Beacon Technology). Recommended by 4 out of 5 people that recommend things.",
     "company": "Omni Labs, Inc.",
-    "companyLogo": "/images/logos/omniinc.svg",
+    "companyLogo": "/images/logos/omni_labs.svg",
     "country": "Vancouver, Canada",
-    "featured": true,
+    "featured": false,
     "id": 2,
     "name": "Nishant",
     "photoUrl": "/images/people/nishant_srivastava.jpg",
@@ -380,6 +380,36 @@
     "title": "Senior Software Developer at Omni Labs"
   }, {
     "badges": [{
+      "description": "Developer Advocate for Tensorflow at Google",
+      "link": "https://twitter.com/random_forests",
+      "name": "Googler"
+    }],
+    "bio": "Developer Advocate for Tensorflow at Google",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "country": "New York, US",
+    "featured": true,
+    "id": 3,
+    "name": "Josh Gordon",
+    "photoUrl": "/images/people/josh_gordon.jpg",
+    "shortBio": "Developer Advocate for #TensorFlow at Google. Author of Machine Learning Recipes. Pretty excited about this whole Deep Learning thing.",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/joshuabendergordon/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/random_forests",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/random-forests",
+      "name": "GitHub"
+    }],
+    "tags": ["Tensorflow", "Cloud"],
+    "title": "Developer Advocate for Tensorflow at Google"
+  }, {
+    "badges": [{
       "description": "Google Developers Expert, Web Technologies",
       "link": "https://developers.google.com/experts/people/faisal-abid.html",
       "name": "GDE"
@@ -389,7 +419,7 @@
     "companyLogo": "/images/logos/zoom_ai.svg",
     "country": "Toronto, Canada",
     "featured": true,
-    "id": 3,
+    "id": 4,
     "name": "Faisal Abid",
     "photoUrl": "/images/people/faisal_abid.jpg",
     "shortBio": "Google Developer Expert for Web Technologies, Dart",
@@ -408,6 +438,31 @@
     }],
     "tags": ["Flutter", "Web Technologies", "Dart"],
     "title": "Google Developer Expert for Web Technologies, Dart"
+  }, {
+    "bio": "VP Product at Heroic Labs - a Y Combinator company",
+    "company": "Heroic Labs",
+    "companyLogo": "/images/logos/heroic_labs.svg",
+    "country": "Vancouver, Canada",
+    "featured": true,
+    "id": 5,
+    "name": "Alim Jaffer",
+    "photoUrl": "/images/people/alim_jaffer.jpg",
+    "shortBio": "Alim Jaffer is the VP Product at Heroic Labs - a Y Combinator company. They develop Nakama: the highly scalable, open-source, distributed server for modern, social games and apps. They've built Nakama using Go, Protobufs, Kubernetes and a variety of other open-source toolchains to achieve reliable and efficient scalability.",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/alimjaffer/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/AlimJaffer",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/heroiclabs/nakama",
+      "name": "GitHub"
+    }],
+    "tags": ["Cloud", "Lightning Talk", "OSS"],
+    "title": "VP Product at Heroic Labs - a Y Combinator company"
   }, {
     "bio": "You!",
     "company": "Your company",
@@ -525,20 +580,28 @@
   "tickets": {
     "elements": [{
       "currency": "$",
-      "ends": "Sep 7",
+      "ends": "Aug 31",
       "info": "RSVP on meetup.com",
-      "name": "Regular",
+      "name": "Early Bird",
       "price": 15,
       "soldOut": false,
       "starts": "Aug 1"
     }, {
       "currency": "$",
-      "ends": "Sept 14",
+      "ends": "Sep 30",
+      "info": "RSVP on meetup.com",
+      "name": "Regular",
+      "price": 20,
+      "soldOut": false,
+      "starts": "Sept 1"
+    }, {
+      "currency": "$",
+      "ends": "Oct 14",
       "info": "RSVP on meetup.com",
       "name": "Lazy Bird",
       "price": 30,
       "soldOut": false,
-      "starts": "Sept 7"
+      "starts": "Oct 7"
     }],
     "url": "https://www.meetup.com/GDGCloudVancouver/events/241827175/"
   }
