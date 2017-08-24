@@ -337,7 +337,7 @@
     "id": 1,
     "name": "Vikram Tiwari",
     "photoUrl": "/images/people/vikram_tiwari.jpg",
-    "shortBio": "Vikram is a Google Developer Expert for Google Cloud Platform and runs GDG Cloud Vancouver..",
+    "shortBio": "Vikram is a Google Developer Expert for Google Cloud Platform and runs GDG Cloud Vancouver.",
     "socials": [{
       "icon": "linkedin",
       "link": "https://www.linkedin.com/in/vikramtiwari/",
@@ -436,7 +436,7 @@
       "link": "https://github.com/FaisalAbid/",
       "name": "GitHub"
     }],
-    "tags": ["Flutter", "Web Technologies", "Dart"],
+    "tags": ["Flutter", "Web", "Dart"],
     "title": "Google Developer Expert for Web Technologies, Dart"
   }, {
     "bio": "VP Product at Heroic Labs - a Y Combinator company",
@@ -461,7 +461,7 @@
       "link": "https://github.com/heroiclabs/nakama",
       "name": "GitHub"
     }],
-    "tags": ["Cloud", "Lightning Talk", "OSS"],
+    "tags": ["Cloud", "Lightning Talk", "Open Source"],
     "title": "VP Product at Heroic Labs - a Y Combinator company"
   }, {
     "bio": "You!",
@@ -520,7 +520,7 @@
         "name": "Google+"
       }, {
         "icon": "facebook",
-        "link": "https://www.facebook.com/nisrulz",
+        "link": "https://www.facebook.com/NishantRulez",
         "name": "Facebook"
       }, {
         "icon": "twitter",
