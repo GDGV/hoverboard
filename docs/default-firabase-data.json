@@ -464,6 +464,36 @@
     "tags": ["Cloud", "Lightning Talk", "Open Source"],
     "title": "VP Product at Heroic Labs - a Y Combinator company"
   }, {
+    "badges": [{
+      "description": "Google Developers Expert, Web Technologies, Angular",
+      "link": "https://developers.google.com/experts/people/jeremy-wilken.html",
+      "name": "GDE"
+    }],
+    "bio": "Google Developer Expert for Web Technologies, Angular",
+    "company": "vmware",
+    "companyLogo": "/images/logos/vmware.svg",
+    "country": "Austin, TX, US",
+    "featured": true,
+    "id": 6,
+    "name": "Jeremy Wilken",
+    "photoUrl": "/images/people/jeremy_wilken.jpg",
+    "shortBio": "Jeremy Wilken is a software engineer at VMware working on the open source Clarity team, as well as the author of Ionic in Action and Angular in Action. Jeremy lives in Austin, Texas, with his wife and daughters. When he isn’t coding, you can find him brewing beer or doing photography.",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/jeremywilken/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/gnomeontherun",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/gnomeontherun",
+      "name": "GitHub"
+    }],
+    "tags": ["Angular", "Web", "Firebase"],
+    "title": "Google Developer Expert for Web Technologies, Angular"
+  }, {
     "bio": "You!",
     "company": "Your company",
     "companyLogo": "/images/logos/you.svg",
