@@ -284,13 +284,13 @@
     },
     "115": {
       "complexity": "Beginner",
-      "description": "Tensorflow and Machine Learning",
+      "description": "TensorFlow and Machine Learning",
       "id": 115,
       "language": "English",
       "presentation": "#",
       "speakers": [50],
       "tags": [],
-      "title": "Tensorflow and Machine Learning"
+      "title": "TensorFlow and Machine Learning"
     },
     "116": {
       "complexity": "Beginner",
@@ -380,11 +380,11 @@
     "title": "Senior Software Developer at Omni Labs"
   }, {
     "badges": [{
-      "description": "Developer Advocate for Tensorflow at Google",
+      "description": "Developer Advocate for TensorFlow at Google",
       "link": "https://twitter.com/random_forests",
       "name": "Googler"
     }],
-    "bio": "Developer Advocate for Tensorflow at Google",
+    "bio": "Developer Advocate for TensorFlow at Google",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
     "country": "New York, US",
@@ -406,8 +406,8 @@
       "link": "https://github.com/random-forests",
       "name": "GitHub"
     }],
-    "tags": ["Tensorflow", "Cloud"],
-    "title": "Developer Advocate for Tensorflow at Google"
+    "tags": ["TensorFlow", "Cloud"],
+    "title": "Developer Advocate for TensorFlow at Google"
   }, {
     "badges": [{
       "description": "Google Developers Expert, Web Technologies",
