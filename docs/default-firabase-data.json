@@ -443,7 +443,7 @@
     "company": "Heroic Labs",
     "companyLogo": "/images/logos/heroic_labs.svg",
     "country": "Vancouver, Canada",
-    "featured": true,
+    "featured": false,
     "id": 5,
     "name": "Alim Jaffer",
     "photoUrl": "/images/people/alim_jaffer.jpg",
@@ -493,6 +493,36 @@
     }],
     "tags": ["Angular", "Web", "Firebase"],
     "title": "Google Developer Expert for Web Technologies, Angular"
+  }, {
+    "badges": [{
+      "description": "Google Engineer, Terraform Contributor",
+      "link": "https://twitter.com/danawillow",
+      "name": "Googler"
+    }],
+    "bio": "Google Engineer, Terraform Contributor, fitness nerd, a cappella enthusiast",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "country": "Seattle, US",
+    "featured": true,
+    "id": 7,
+    "name": "Dana Hoffman",
+    "photoUrl": "/images/people/dana_hoffman.jpg",
+    "shortBio": "Google Engineer, Terraform Contributor, fitness nerd, a cappella enthusiast",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/danawillow/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/danawillow",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/danawillow",
+      "name": "GitHub"
+    }],
+    "tags": ["Kubernetes", "Cloud"],
+    "title": "Google Engineer, Terraform Contributor"
   }, {
     "bio": "You!",
     "company": "Your company",
