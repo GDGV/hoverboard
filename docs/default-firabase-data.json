@@ -148,7 +148,7 @@
       "id": 101,
       "language": "English",
       "presentation": "#",
-      "speakers": [1],
+      "speakers": [50],
       "tags": [],
       "title": "Registrations and Breakfast"
     },
@@ -184,12 +184,12 @@
     },
     "105": {
       "complexity": "Beginner",
-      "description": "Virtual Reality",
+      "description": "WebVR has come a long way since its inception in 2014. Multiple browsers are shipping with the API, and tools, frameworks and file formats have emerged to support a growing community of developers. The talk will start with a brief intro into our 2017 Mozilla tech road map and then discuss specifics of A-Frame.",
       "id": 105,
       "language": "English",
       "presentation": "#",
-      "speakers": [50],
-      "tags": [],
+      "speakers": [7],
+      "tags": ["vr", "Web"],
       "title": "Virtual Reality"
     },
     "106": {
@@ -204,23 +204,23 @@
     },
     "107": {
       "complexity": "Beginner",
-      "description": "Android",
+      "description": "Architecture Components of Andorid",
       "id": 107,
       "language": "English",
       "presentation": "#",
-      "speakers": [50],
-      "tags": [],
+      "speakers": [2],
+      "tags": ["Android"],
       "title": "Android"
     },
     "108": {
       "complexity": "Beginner",
-      "description": "Progressive Web Apps",
+      "description": "Voice driven interactions are becoming mainstream with technologies like Amazon’s Echo, Apple’s Siri, Microsoft’s Cortana, and Google’s Assistant. They are great for providing answers to common questions, getting local weather, playing music, and managing your lights. However, these technologies can do so much more. Let’s dive into how these technologies can be paired with more traditional web technologies to create interesting and unique experiences for our users.",
       "id": 108,
       "language": "English",
       "presentation": "#",
-      "speakers": [50],
-      "tags": [],
-      "title": "Progressive Web Apps"
+      "speakers": [6],
+      "tags": ["Actions", "IoT", "Firebase"],
+      "title": "Actions On Google with IoT and FireBase"
     },
     "109": {
       "complexity": "Beginner",
@@ -238,29 +238,29 @@
       "id": 110,
       "language": "English",
       "presentation": "#",
-      "speakers": [50],
-      "tags": [],
+      "speakers": [5],
+      "tags": ["Open Source", "Startups"],
       "title": "Lightning Talks"
     },
     "111": {
       "complexity": "Beginner",
-      "description": "Various ways to deploy a web based application to Cloud",
+      "description": "Cloud Deployments",
       "id": 111,
       "language": "English",
       "presentation": "#",
-      "speakers": [1],
+      "speakers": [50],
       "tags": ["Cloud"],
-      "title": "Deploy web apps to cloud"
+      "title": "Cloud Deployments"
     },
     "112": {
       "complexity": "Beginner",
-      "description": "Internet of things",
+      "description": "Kubernetes",
       "id": 112,
       "language": "English",
       "presentation": "#",
       "speakers": [50],
-      "tags": [],
-      "title": "Internet of things"
+      "tags": ["Kubernetes"],
+      "title": "Kubernetes"
     },
     "113": {
       "complexity": "Beginner",
@@ -288,8 +288,8 @@
       "id": 115,
       "language": "English",
       "presentation": "#",
-      "speakers": [50],
-      "tags": [],
+      "speakers": [3],
+      "tags": ["Tensorflow", "Machine Learning"],
       "title": "TensorFlow and Machine Learning"
     },
     "116": {
@@ -298,7 +298,7 @@
       "id": 116,
       "language": "English",
       "presentation": "#",
-      "speakers": [50],
+      "speakers": [1],
       "tags": [],
       "title": "Thank you session"
     },
@@ -360,7 +360,7 @@
     "country": "Vancouver, Canada",
     "featured": false,
     "id": 2,
-    "name": "Nishant",
+    "name": "Nishant Srivastava",
     "photoUrl": "/images/people/nishant_srivastava.jpg",
     "shortBio": "Nishant is a Software Engineer (at) OmniLabs, Inc. He is a caffeine-dependent life-form who doubles up as an Open Source enthusiast at the same time and spends his time doodling when not hacking on Android.",
     "socials": [{
@@ -495,34 +495,34 @@
     "title": "Google Developer Expert for Web Technologies, Angular"
   }, {
     "badges": [{
-      "description": "Google Engineer, Terraform Contributor",
-      "link": "https://twitter.com/danawillow",
-      "name": "Googler"
+      "description": "Mozilla",
+      "link": "https://twitter.com/whoyee",
+      "name": "Mozilla"
     }],
-    "bio": "Google Engineer, Terraform Contributor, fitness nerd, a cappella enthusiast",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "country": "Seattle, US",
+    "bio": "Casey is as UX Engineer on the Virtual & Augmented Reality team at Mozilla, and works on creating open source tools and tech for creating immersive experiences on the web.",
+    "company": "Mozilla",
+    "companyLogo": "/images/logos/mozilla.svg",
+    "country": "Vancouver, BC",
     "featured": true,
     "id": 7,
-    "name": "Dana Hoffman",
-    "photoUrl": "/images/people/dana_hoffman.jpg",
-    "shortBio": "Google Engineer, Terraform Contributor, fitness nerd, a cappella enthusiast",
+    "name": "Casey Yee",
+    "photoUrl": "/images/people/casey_yee.jpg",
+    "shortBio": "VR Designer and Developer at Mozilla Corporation",
     "socials": [{
       "icon": "linkedin",
-      "link": "https://www.linkedin.com/in/danawillow/",
+      "link": "https://www.linkedin.com/in/casey-yee-b790441b/",
       "name": "LinkedIn"
     }, {
       "icon": "twitter",
-      "link": "https://twitter.com/danawillow",
+      "link": "https://twitter.com/whoyee",
       "name": "Twitter"
     }, {
       "icon": "github",
-      "link": "https://github.com/danawillow",
+      "link": "https://github.com/caseyyee",
       "name": "GitHub"
     }],
-    "tags": ["Kubernetes", "Cloud"],
-    "title": "Google Engineer, Terraform Contributor"
+    "tags": ["VR", "Web"],
+    "title": "I hack on WebVR for Mozilla."
   }, {
     "bio": "You!",
     "company": "Your company",
@@ -641,7 +641,7 @@
     "elements": [{
       "currency": "$",
       "ends": "Aug 31",
-      "info": "RSVP on meetup.com",
+      "info": "Refunded if you show up!",
       "name": "Early Bird",
       "price": 15,
       "soldOut": false,
@@ -649,7 +649,7 @@
     }, {
       "currency": "$",
       "ends": "Sep 30",
-      "info": "RSVP on meetup.com",
+      "info": "Refunded if you show up!",
       "name": "Regular",
       "price": 20,
       "soldOut": false,
@@ -657,7 +657,7 @@
     }, {
       "currency": "$",
       "ends": "Oct 14",
-      "info": "RSVP on meetup.com",
+      "info": "Refunded if you show up!",
       "name": "Lazy Bird",
       "price": 30,
       "soldOut": false,
