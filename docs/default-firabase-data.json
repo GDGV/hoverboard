@@ -15,37 +15,38 @@
     "title": "Venue Sponsor"
   }, {
     "logos": [{
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "Your company! - Breakfast",
-      "url": "#"
+      "logoUrl": "../images/logos/flutter.jpg",
+      "name": "Flutter Team",
+      "url": "https://flutter.io/"
     }, {
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "Your company! - Lunch",
-      "url": "#"
+      "logoUrl": "../images/logos/actions-on-google.png",
+      "name": "Actions on Google Team",
+      "url": "https://developers.google.com/actions/"
+    }, {
+      "logoUrl": "../images/logos/wtm.png",
+      "name": "Women Techmakers",
+      "url": "https://www.womentechmakers.com/"
     }],
-    "title": "Platinum Sponsors"
+    "title": "Technology Sponsors"
   }, {
     "logos": [{
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "Your company! - Coffee/Snacks",
-      "url": "#"
+      "logoUrl": "../images/logos/gcp.svg",
+      "name": "Google Cloud - Qwiklab credits",
+      "url": "https://google.qwiklabs.com/catalog"
     }, {
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "Your company! - Drinks",
-      "url": "#"
-    }],
-    "title": "Gold Sponsors"
-  }, {
-    "logos": [{
-      "logoUrl": "../images/logos/firebase.svg",
-      "name": "Firebase (Google) - Hackathon Winners",
-      "url": "https://console.firebase.google.com/"
+      "logoUrl": "../images/logos/cncf.jpg",
+      "name": "Cloud Native Computing Foundation - k8s swag",
+      "url": "https://www.cncf.io/projects/"
     }, {
-      "logoUrl": "../images/logos/gdg-x.svg",
-      "name": "Your company! - Speaker Gifts",
-      "url": "#"
+      "logoUrl": "../images/logos/mozilla.svg",
+      "name": "Mozilla - swags",
+      "url": "https://developer.mozilla.org/"
+    }, {
+      "logoUrl": "../images/logos/codefresh.png",
+      "name": "Codefresh - swags",
+      "url": "https://codefresh.io/"
     }],
-    "title": "Silver Sponsors"
+    "title": "Swags/Credits"
   }],
   "schedule": [{
     "date": "2017-10-14",
@@ -337,7 +338,7 @@
     "id": 1,
     "name": "Vikram Tiwari",
     "photoUrl": "/images/people/vikram_tiwari.jpg",
-    "shortBio": "Vikram is a Google Developer Expert for Google Cloud Platform and runs GDG Cloud Vancouver.",
+    "shortBio": "Building scalable web platforms for high availability, resilience, and security. #GDE @GoogleCloud. Founding team member and all things tech @omnilabsinc. Lead @gdgvancouver",
     "socials": [{
       "icon": "linkedin",
       "link": "https://www.linkedin.com/in/vikramtiwari/",
@@ -441,7 +442,7 @@
   }, {
     "bio": "VP Product at Heroic Labs - a Y Combinator company",
     "company": "Heroic Labs",
-    "companyLogo": "/images/logos/heroic_labs.svg",
+    "companyLogo": "/images/logos/heroic_labs.png",
     "country": "Vancouver, Canada",
     "featured": false,
     "id": 5,
@@ -461,7 +462,7 @@
       "link": "https://github.com/heroiclabs/nakama",
       "name": "GitHub"
     }],
-    "tags": ["Cloud", "Lightning Talk", "Open Source"],
+    "tags": ["Cloud", "Open Source", "Lightning Talk"],
     "title": "VP Product at Heroic Labs - a Y Combinator company"
   }, {
     "badges": [{
@@ -472,7 +473,7 @@
     "bio": "Google Developer Expert for Web Technologies, Angular",
     "company": "vmware",
     "companyLogo": "/images/logos/vmware.svg",
-    "country": "Austin, TX, US",
+    "country": "Austin, US",
     "featured": true,
     "id": 6,
     "name": "Jeremy Wilken",
@@ -502,7 +503,7 @@
     "bio": "Casey is as UX Engineer on the Virtual & Augmented Reality team at Mozilla, and works on creating open source tools and tech for creating immersive experiences on the web.",
     "company": "Mozilla",
     "companyLogo": "/images/logos/mozilla.svg",
-    "country": "Vancouver, BC",
+    "country": "Vancouver, Canada",
     "featured": true,
     "id": 7,
     "name": "Casey Yee",
@@ -523,6 +524,52 @@
     }],
     "tags": ["VR", "Web"],
     "title": "I hack on WebVR for Mozilla."
+  }, {
+    "bio": "As a software developer, lead organizer of HackerNest Vancouver, organizer of the Vancouver Tech Meetup, and founder of the Vancouver Tech Podcast, Drew is very active in Vancouver's tech community.",
+    "company": "Vancouver Tech Podcast",
+    "companyLogo": "/images/logos/vancouver-tech-podcast.svg",
+    "country": "Vancouver, Canada",
+    "featured": false,
+    "id": 8,
+    "name": "Drew Ogryzek",
+    "photoUrl": "/images/people/drew_ogryzek.jpg",
+    "shortBio": "Lead organizer of HackerNest Vancouver, organizer of the Vancouver Tech Meetup, and founder of the Vancouver Tech Podcast.",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/drew-ogryzek-7a6bb489",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/drew_bro",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/ogryzek",
+      "name": "GitHub"
+    }],
+    "tags": ["Kubernetes", "Cloud"],
+    "title": "Developer of software, culture, community, and @HackerNest Vancouver enthusiast."
+  }, {
+    "bio": "Virtual Reality Designer, and runs the Vancouver VR Community. Rock n roll photographer, sysadmin, writer (sort of). Mains as Protoss in StarCraft.",
+    "company": "Vancouver VR",
+    "companyLogo": "/images/logos/vancouver_vr.png",
+    "country": "Vancouver, Canada",
+    "featured": false,
+    "id": 9,
+    "name": "Melissa Dex Guzman",
+    "photoUrl": "/images/people/melissa_dex_guxman.jpg",
+    "shortBio": "Virtual Reality Designer, and runs the Vancouver VR Community. Rock n roll photographer, sysadmin, writer (sort of). Mains as Protoss in StarCraft.",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/melissaguzman",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/m3lissa",
+      "name": "Twitter"
+    }],
+    "tags": ["VR", "Community", "Lightning Talk"],
+    "title": "Vancouver VR community lead"
   }, {
     "bio": "You!",
     "company": "Your company",
@@ -640,28 +687,12 @@
   "tickets": {
     "elements": [{
       "currency": "$",
-      "ends": "Aug 31",
-      "info": "Refunded if you show up!",
-      "name": "Early Bird",
-      "price": 15,
+      "ends": "Oct 13",
+      "info": "Free for all",
+      "name": "Free",
+      "price": 0,
       "soldOut": false,
       "starts": "Aug 1"
-    }, {
-      "currency": "$",
-      "ends": "Sep 30",
-      "info": "Refunded if you show up!",
-      "name": "Regular",
-      "price": 20,
-      "soldOut": false,
-      "starts": "Sept 1"
-    }, {
-      "currency": "$",
-      "ends": "Oct 14",
-      "info": "Refunded if you show up!",
-      "name": "Lazy Bird",
-      "price": 30,
-      "soldOut": false,
-      "starts": "Oct 7"
     }],
     "url": "https://www.meetup.com/GDGCloudVancouver/events/241827175/"
   }
