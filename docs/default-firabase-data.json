@@ -52,7 +52,7 @@
     "date": "2017-10-14",
     "dateReadable": "October 14",
     "timeslots": [{
-      "endTime": "08:30",
+      "endTime": "09:00",
       "sessions": [
         [101]
       ],
@@ -62,96 +62,88 @@
       "sessions": [
         [102]
       ],
-      "startTime": "08:30"
+      "startTime": "09:00"
     }, {
       "endTime": "10:30",
       "sessions": [
-        [104],
-        [105]
+        [103],
+        [104]
       ],
       "startTime": "09:30"
     }, {
       "endTime": "11:00",
       "sessions": [
-        [106]
+        [105]
       ],
       "startTime": "10:30"
     }, {
       "endTime": "12:00",
       "sessions": [
-        [107],
-        [108]
+        [106],
+        [107]
       ],
       "startTime": "11:00"
     }, {
       "endTime": "13:00",
       "sessions": [
-        [109]
+        [108]
       ],
       "startTime": "12:00"
     }, {
       "endTime": "14:00",
       "sessions": [
-        [110]
+        [109]
       ],
       "startTime": "13:00"
     }, {
       "endTime": "15:00",
       "sessions": [
-        [111],
-        [112]
+        [110],
+        [111]
       ],
       "startTime": "14:00"
     }, {
       "endTime": "15:30",
       "sessions": [
-        [113]
+        [112]
       ],
       "startTime": "15:00"
     }, {
       "endTime": "16:30",
       "sessions": [
-        [114],
-        [115]
+        [113],
+        [114]
       ],
       "startTime": "15:30"
     }, {
       "endTime": "17:00",
       "sessions": [
-        [116]
+        [115]
       ],
       "startTime": "16:30"
     }, {
       "endTime": "18:00",
       "sessions": [
-        [117]
+        [116]
       ],
       "startTime": "17:00"
-    }, {
-      "endTime": "18:30",
-      "sessions": [
-        [118]
-      ],
-      "startTime": "18:00"
     }],
     "tracks": [{
       "title": "Lounge"
     }, {
       "title": "Flex"
-    }, {
-      "title": "AppFest"
     }]
   }],
   "sessions": {
     "101": {
       "complexity": "Beginner",
-      "description": "Start networking early over coffee and breakfast while settling in.",
+      "description": "Doors open, Demos, Registrations and Networking",
       "id": 101,
       "language": "English",
       "presentation": "#",
       "speakers": [50],
       "tags": [],
-      "title": "Registrations and Breakfast"
+      "title": "Doors open and Registrations"
     },
     "102": {
       "complexity": "Beginner",
@@ -160,168 +152,148 @@
       "language": "English",
       "presentation": "#",
       "speakers": [1],
-      "tags": [],
-      "title": "GDG Cloud Vancouver Presents - DevFest"
+      "tags": ["Keynote"],
+      "title": "GDG Cloud Vancouver Presents - DevFest - Keynote"
     },
     "103": {
       "complexity": "Beginner",
-      "description": "What's special from Google Developer Relations for Vancouver community",
-      "id": 103,
-      "language": "English",
-      "presentation": "#",
-      "speakers": [50],
-      "tags": [],
-      "title": "Google DevRel Presents"
-    },
-    "104": {
-      "complexity": "Beginner",
       "description": "Building Cross Platform apps with Flutter",
-      "id": 104,
+      "id": 103,
       "language": "English",
       "presentation": "#",
       "speakers": [4],
       "tags": ["Flutter"],
       "title": "Building Cross Platform apps with Flutter"
     },
-    "105": {
-      "complexity": "Beginner",
-      "description": "WebVR has come a long way since its inception in 2014. Multiple browsers are shipping with the API, and tools, frameworks and file formats have emerged to support a growing community of developers. The talk will start with a brief intro into our 2017 Mozilla tech road map and then discuss specifics of A-Frame.",
-      "id": 105,
-      "language": "English",
-      "presentation": "#",
-      "speakers": [7],
-      "tags": ["vr", "Web"],
-      "title": "Virtual Reality"
-    },
-    "106": {
-      "complexity": "Beginner",
-      "description": "Break",
-      "id": 106,
-      "language": "English",
-      "presentation": "#",
-      "speakers": [50],
-      "tags": [],
-      "title": "Break"
-    },
-    "107": {
+    "104": {
       "complexity": "Beginner",
       "description": "Architecture Components of Andorid",
-      "id": 107,
+      "id": 104,
       "language": "English",
       "presentation": "#",
       "speakers": [2],
       "tags": ["Android"],
       "title": "Android"
     },
-    "108": {
+    "105": {
+      "complexity": "Beginner",
+      "description": "Coffee Break",
+      "id": 105,
+      "language": "English",
+      "presentation": "#",
+      "speakers": [50],
+      "tags": [],
+      "title": "Coffee Break"
+    },
+    "106": {
+      "complexity": "Beginner",
+      "description": "WebVR has come a long way since its inception in 2014. Multiple browsers are shipping with the API, and tools, frameworks and file formats have emerged to support a growing community of developers. The talk will start with a brief intro into our 2017 Mozilla tech road map and then discuss specifics of A-Frame.",
+      "id": 106,
+      "language": "English",
+      "presentation": "#",
+      "speakers": [7],
+      "tags": ["vr", "Web"],
+      "title": "Virtual Reality"
+    },
+    "107": {
       "complexity": "Beginner",
       "description": "Voice driven interactions are becoming mainstream with technologies like Amazon’s Echo, Apple’s Siri, Microsoft’s Cortana, and Google’s Assistant. They are great for providing answers to common questions, getting local weather, playing music, and managing your lights. However, these technologies can do so much more. Let’s dive into how these technologies can be paired with more traditional web technologies to create interesting and unique experiences for our users.",
-      "id": 108,
+      "id": 107,
       "language": "English",
       "presentation": "#",
       "speakers": [6],
-      "tags": ["Actions", "IoT", "Firebase"],
+      "tags": ["Actions", "iot", "Firebase"],
       "title": "Actions On Google with IoT and FireBase"
     },
-    "109": {
+    "108": {
       "complexity": "Beginner",
       "description": "Lunch",
-      "id": 109,
+      "id": 108,
       "language": "English",
       "presentation": "#",
       "speakers": [50],
       "tags": [],
       "title": "Lunch"
     },
-    "110": {
+    "109": {
       "complexity": "Beginner",
       "description": "Lightning Talks",
+      "id": 109,
+      "language": "English",
+      "presentation": "#",
+      "speakers": [5, 9, 12],
+      "tags": ["Open Source", "Startups", "Community"],
+      "title": "Lightning Talks"
+    },
+    "110": {
+      "complexity": "Beginner",
+      "description": "Deploying applications to Cloud",
       "id": 110,
       "language": "English",
       "presentation": "#",
-      "speakers": [5],
-      "tags": ["Open Source", "Startups"],
-      "title": "Lightning Talks"
+      "speakers": [8],
+      "tags": ["Kubernetes", "Cloud"],
+      "title": "Deploying applications to Cloud"
     },
     "111": {
       "complexity": "Beginner",
-      "description": "Cloud Deployments",
+      "description": "Analytics is one of the four key pillars of Hootsuite product. In this talk Kiana Mohseni, Senior Director of Development at Hootsuite, will talk about the development process and technology stack behind Analytics product portfolio in Hootsuite.",
       "id": 111,
       "language": "English",
       "presentation": "#",
-      "speakers": [50],
-      "tags": ["Cloud"],
-      "title": "Cloud Deployments"
+      "speakers": [11],
+      "tags": ["Data", "Analytics"],
+      "title": "Social Media Data Analytics"
     },
     "112": {
       "complexity": "Beginner",
-      "description": "Kubernetes",
+      "description": "Coffee break",
       "id": 112,
       "language": "English",
       "presentation": "#",
       "speakers": [50],
-      "tags": ["Kubernetes"],
-      "title": "Kubernetes"
+      "tags": [],
+      "title": "Coffee break"
     },
     "113": {
       "complexity": "Beginner",
-      "description": "Snacks",
-      "id": 113,
-      "language": "English",
-      "presentation": "#",
-      "speakers": [50],
-      "tags": [],
-      "title": "Snacks"
-    },
-    "114": {
-      "complexity": "Beginner",
-      "description": "Data Storage and Processing",
+      "description": "When setting up your cloud infrastructure, it's important to have a system in place so everyone involved is aware when changes occur and understands how to make those changes. In this talk, Dana will explain why an infrastructure-as-code system is the way to go for cloud infrastructure management, go over a few different options you have in the infrastructure management space (some of which are partially developed by her team at Google), and show you how to get started with Terraform, an open-source infrastructure-as-code tool",
       "id": 114,
       "language": "English",
       "presentation": "#",
-      "speakers": [50],
-      "tags": [],
-      "title": "Data Storage and Processing"
+      "speakers": [10],
+      "tags": ["Cloud", "Infrastrcture"],
+      "title": "Infrastrcture Management on GCP"
     },
-    "115": {
+    "114": {
       "complexity": "Beginner",
       "description": "TensorFlow and Machine Learning",
-      "id": 115,
+      "id": 114,
       "language": "English",
       "presentation": "#",
       "speakers": [3],
       "tags": ["Tensorflow", "Machine Learning"],
       "title": "TensorFlow and Machine Learning"
     },
-    "116": {
+    "115": {
       "complexity": "Beginner",
       "description": "Thank you session",
-      "id": 116,
+      "id": 115,
       "language": "English",
       "presentation": "#",
       "speakers": [1],
       "tags": [],
       "title": "Thank you session"
     },
-    "117": {
+    "116": {
       "complexity": "Beginner",
-      "description": "Networking",
-      "id": 117,
+      "description": "Networking and closing",
+      "id": 116,
       "language": "English",
       "presentation": "#",
       "speakers": [50],
       "tags": [],
-      "title": "Networking"
-    },
-    "118": {
-      "complexity": "Beginner",
-      "description": "Close venue",
-      "id": 118,
-      "language": "English",
-      "presentation": "#",
-      "speakers": [50],
-      "tags": [],
-      "title": "Close Venue"
+      "title": "Networking and closing"
     }
   },
   "speakers": [null, {
@@ -407,7 +379,7 @@
       "link": "https://github.com/random-forests",
       "name": "GitHub"
     }],
-    "tags": ["TensorFlow", "Cloud"],
+    "tags": ["Tensorflow", "Cloud"],
     "title": "Developer Advocate for TensorFlow at Google"
   }, {
     "badges": [{
@@ -419,7 +391,7 @@
     "company": "Zoom.ai",
     "companyLogo": "/images/logos/zoom_ai.svg",
     "country": "Toronto, Canada",
-    "featured": true,
+    "featured": false,
     "id": 4,
     "name": "Faisal Abid",
     "photoUrl": "/images/people/faisal_abid.jpg",
@@ -504,7 +476,7 @@
     "company": "Mozilla",
     "companyLogo": "/images/logos/mozilla.svg",
     "country": "Vancouver, Canada",
-    "featured": true,
+    "featured": false,
     "id": 7,
     "name": "Casey Yee",
     "photoUrl": "/images/people/casey_yee.jpg",
@@ -570,6 +542,82 @@
     }],
     "tags": ["VR", "Community", "Lightning Talk"],
     "title": "Vancouver VR community lead"
+  }, {
+    "badges": [{
+      "description": "Software Engineer at Google",
+      "link": "https://twitter.com/random_forests",
+      "name": "Googler"
+    }],
+    "bio": "Dana is a software engineer at Google working to ensure that open-source cloud software has great GCP support. When not working on making Terraform as great as possible for GCP development, she enjoys food, fitness, music, and petting other people’s dogs.",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "country": "Seattle, US",
+    "featured": true,
+    "id": 10,
+    "name": "Dana Hoffman",
+    "photoUrl": "/images/people/dana_hoffman.jpg",
+    "shortBio": "Dana is a software engineer at Google working to ensure that open-source cloud software has great GCP support.",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/danawillow",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/danawillow",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/danawillow",
+      "name": "GitHub"
+    }],
+    "tags": ["Kubernetes", "Infrastructure"],
+    "title": "Software Engineer at Google"
+  }, {
+    "bio": "Kiana Mohseni is a seasoned technology leader with over 20 years of experience in delivering complex software products from satellite mission planning systems to console games. Kiana is currently the Senior Director of Development at HootSuite. Prior to joining HootSuite, Kiana worked at leading technology companies such as Amazon, Electronic Arts and MDA, to name a few. Kiana holds a BSc in Civil Engineering and an MSc in Computer Science from University of London in UK and an MBA from Simon Fraser University.",
+    "company": "HootSuite",
+    "companyLogo": "/images/logos/hootsuite.png",
+    "country": "Vancouver, Canada",
+    "featured": true,
+    "id": 11,
+    "name": "Kiana Mohseni",
+    "photoUrl": "/images/people/kiana_mohseni.jpg",
+    "shortBio": "Senior Director of Development at HootSuite",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/kianamohseni",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/kianamohseni",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/kiana-mohseni-hs",
+      "name": "GitHub"
+    }],
+    "tags": ["Data", "Analytics"],
+    "title": "Senior Director of Development at HootSuite"
+  }, {
+    "bio": "Serial Entrepreneur | Speaker | Startup Advisor | Angel | GM @Launch_Academy | Vancouver's Leading Tech Startup Hub",
+    "company": "Launch Academy",
+    "companyLogo": "/images/logos/launch_academy.png",
+    "country": "Vancouver, Canada",
+    "featured": false,
+    "id": 12,
+    "name": "Hussein Hallak",
+    "photoUrl": "/images/people/hussein_hallak.jpg",
+    "shortBio": "GM @Launch_Academy | Vancouver's Leading Tech Startup Hub",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/husseinhallak",
+      "name": "LinkedIn"
+    }, {
+      "icon": "twitter",
+      "link": "https://twitter.com/HHUnleashed",
+      "name": "Twitter"
+    }],
+    "tags": ["Startups", "Lightning Talk"],
+    "title": "GM @Launch_Academy Vancouver's Leading Tech Startup Hub"
   }, {
     "bio": "You!",
     "company": "Your company",
