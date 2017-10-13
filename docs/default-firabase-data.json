@@ -52,81 +52,81 @@
     "date": "2017-10-14",
     "dateReadable": "October 14",
     "timeslots": [{
-      "endTime": "09:00",
+      "endTime": "09:30",
       "sessions": [
         [101]
       ],
-      "startTime": "08:00"
+      "startTime": "09:00"
     }, {
-      "endTime": "09:30",
+      "endTime": "10:00",
       "sessions": [
         [102]
       ],
-      "startTime": "09:00"
+      "startTime": "09:30"
     }, {
       "endTime": "10:30",
       "sessions": [
-        [103],
-        [104]
+        [103]
       ],
-      "startTime": "09:30"
+      "startTime": "10:00"
     }, {
-      "endTime": "11:00",
+      "endTime": "11:30",
       "sessions": [
+        [104],
         [105]
       ],
       "startTime": "10:30"
     }, {
-      "endTime": "12:00",
+      "endTime": "12:30",
       "sessions": [
         [106],
         [107]
       ],
-      "startTime": "11:00"
+      "startTime": "11:30"
     }, {
-      "endTime": "13:00",
+      "endTime": "13:30",
       "sessions": [
         [108]
       ],
-      "startTime": "12:00"
+      "startTime": "12:30"
     }, {
-      "endTime": "14:00",
+      "endTime": "14:30",
       "sessions": [
         [109]
       ],
-      "startTime": "13:00"
+      "startTime": "13:30"
     }, {
-      "endTime": "15:00",
+      "endTime": "15:30",
       "sessions": [
         [110],
         [111]
       ],
-      "startTime": "14:00"
+      "startTime": "14:30"
     }, {
-      "endTime": "15:30",
+      "endTime": "16:00",
       "sessions": [
         [112]
-      ],
-      "startTime": "15:00"
-    }, {
-      "endTime": "16:30",
-      "sessions": [
-        [113],
-        [114]
       ],
       "startTime": "15:30"
     }, {
       "endTime": "17:00",
       "sessions": [
+        [113],
+        [114]
+      ],
+      "startTime": "16:00"
+    }, {
+      "endTime": "17:30",
+      "sessions": [
         [115]
       ],
-      "startTime": "16:30"
+      "startTime": "17:30"
     }, {
       "endTime": "18:00",
       "sessions": [
         [116]
       ],
-      "startTime": "17:00"
+      "startTime": "17:30"
     }],
     "tracks": [{
       "title": "Lounge"
@@ -147,23 +147,23 @@
     },
     "102": {
       "complexity": "Beginner",
-      "description": "What's a DevFest and what will we be doing today? Sessions and speakers, track leads and general intro",
+      "description": "Breakfast/Coffee",
       "id": 102,
+      "language": "English",
+      "presentation": "#",
+      "speakers": [50],
+      "tags": [],
+      "title": "Breakfast/Coffee Break"
+    },
+    "103": {
+      "complexity": "Beginner",
+      "description": "What's a DevFest and what will we be doing today? Sessions and speakers, track leads and general intro",
+      "id": 103,
       "language": "English",
       "presentation": "#",
       "speakers": [1],
       "tags": ["Keynote"],
       "title": "GDG Cloud Vancouver Presents - DevFest - Keynote"
-    },
-    "103": {
-      "complexity": "Beginner",
-      "description": "Building Cross Platform apps with Flutter",
-      "id": 103,
-      "language": "English",
-      "presentation": "#",
-      "speakers": [4],
-      "tags": ["Flutter"],
-      "title": "Building Cross Platform apps with Flutter"
     },
     "104": {
       "complexity": "Beginner",
@@ -177,33 +177,33 @@
     },
     "105": {
       "complexity": "Beginner",
-      "description": "Coffee Break",
+      "description": "Deploying applications to Cloud",
       "id": 105,
       "language": "English",
       "presentation": "#",
-      "speakers": [50],
-      "tags": [],
-      "title": "Coffee Break"
+      "speakers": [8],
+      "tags": ["Kubernetes", "Cloud"],
+      "title": "Deploying applications to Cloud"
     },
     "106": {
       "complexity": "Beginner",
-      "description": "WebVR has come a long way since its inception in 2014. Multiple browsers are shipping with the API, and tools, frameworks and file formats have emerged to support a growing community of developers. The talk will start with a brief intro into our 2017 Mozilla tech road map and then discuss specifics of A-Frame.",
+      "description": "Building Cross Platform apps with Flutter",
       "id": 106,
       "language": "English",
       "presentation": "#",
-      "speakers": [7],
-      "tags": ["vr", "Web"],
-      "title": "Virtual Reality"
+      "speakers": [4],
+      "tags": ["Flutter"],
+      "title": "Building Cross Platform apps with Flutter"
     },
     "107": {
       "complexity": "Beginner",
-      "description": "Voice driven interactions are becoming mainstream with technologies like Amazon’s Echo, Apple’s Siri, Microsoft’s Cortana, and Google’s Assistant. They are great for providing answers to common questions, getting local weather, playing music, and managing your lights. However, these technologies can do so much more. Let’s dive into how these technologies can be paired with more traditional web technologies to create interesting and unique experiences for our users.",
+      "description": "When setting up your cloud infrastructure, it's important to have a system in place so everyone involved is aware when changes occur and understands how to make those changes. In this talk, Dana will explain why an infrastructure-as-code system is the way to go for cloud infrastructure management, go over a few different options you have in the infrastructure management space (some of which are partially developed by her team at Google), and show you how to get started with Terraform, an open-source infrastructure-as-code tool",
       "id": 107,
       "language": "English",
       "presentation": "#",
-      "speakers": [6],
-      "tags": ["Actions", "iot", "Firebase"],
-      "title": "Actions On Google with IoT and FireBase"
+      "speakers": [10],
+      "tags": ["Cloud", "Infrastrcture"],
+      "title": "Infrastrcture Management on GCP"
     },
     "108": {
       "complexity": "Beginner",
@@ -227,13 +227,13 @@
     },
     "110": {
       "complexity": "Beginner",
-      "description": "Deploying applications to Cloud",
+      "description": "WebVR has come a long way since its inception in 2014. Multiple browsers are shipping with the API, and tools, frameworks and file formats have emerged to support a growing community of developers. The talk will start with a brief intro into our 2017 Mozilla tech road map and then discuss specifics of A-Frame.",
       "id": 110,
       "language": "English",
       "presentation": "#",
-      "speakers": [8],
-      "tags": ["Kubernetes", "Cloud"],
-      "title": "Deploying applications to Cloud"
+      "speakers": [7],
+      "tags": ["vr", "Web"],
+      "title": "Virtual Reality"
     },
     "111": {
       "complexity": "Beginner",
@@ -257,13 +257,13 @@
     },
     "113": {
       "complexity": "Beginner",
-      "description": "When setting up your cloud infrastructure, it's important to have a system in place so everyone involved is aware when changes occur and understands how to make those changes. In this talk, Dana will explain why an infrastructure-as-code system is the way to go for cloud infrastructure management, go over a few different options you have in the infrastructure management space (some of which are partially developed by her team at Google), and show you how to get started with Terraform, an open-source infrastructure-as-code tool",
-      "id": 114,
+      "description": "Voice driven interactions are becoming mainstream with technologies like Amazon’s Echo, Apple’s Siri, Microsoft’s Cortana, and Google’s Assistant. They are great for providing answers to common questions, getting local weather, playing music, and managing your lights. However, these technologies can do so much more. Let’s dive into how these technologies can be paired with more traditional web technologies to create interesting and unique experiences for our users.",
+      "id": 113,
       "language": "English",
       "presentation": "#",
-      "speakers": [10],
-      "tags": ["Cloud", "Infrastrcture"],
-      "title": "Infrastrcture Management on GCP"
+      "speakers": [6],
+      "tags": ["Firebase", "Actions", "iot"],
+      "title": "Actions On Google with IoT and FireBase"
     },
     "114": {
       "complexity": "Beginner",
@@ -277,7 +277,7 @@
     },
     "115": {
       "complexity": "Beginner",
-      "description": "Thank you session",
+      "description": "Thank you session, Networking and Swags",
       "id": 115,
       "language": "English",
       "presentation": "#",
@@ -325,7 +325,7 @@
       "name": "GitHub"
     }],
     "tags": ["Cloud", "Web", "Data"],
-    "title": "Google Developers Expert"
+    "title": "Google Developers Expert, Google Cloud Platform"
   }, {
     "bio": "Nishant is a Software Engineer/Founding Team Member (at) OmniLabs, Inc. with 4+ years of experience in Android SDK Engineering and DSP(Audio). He is the Co-Organizer (at) Google Developer Group Cloud Vancouver (GDGCV). He is a caffeine-dependent life-form who doubles up as an Open Source enthusiast at the same time and spends his time doodling when not hacking on Android. While working at his past company, he developed the company’s patented UAB (Unique Audio Beacon Technology). Recommended by 4 out of 5 people that recommend things.",
     "company": "Omni Labs, Inc.",
@@ -446,7 +446,7 @@
     "company": "vmware",
     "companyLogo": "/images/logos/vmware.svg",
     "country": "Austin, US",
-    "featured": true,
+    "featured": false,
     "id": 6,
     "name": "Jeremy Wilken",
     "photoUrl": "/images/people/jeremy_wilken.jpg",
@@ -602,7 +602,7 @@
     "company": "Launch Academy",
     "companyLogo": "/images/logos/launch_academy.png",
     "country": "Vancouver, Canada",
-    "featured": false,
+    "featured": true,
     "id": 12,
     "name": "Hussein Hallak",
     "photoUrl": "/images/people/hussein_hallak.jpg",
@@ -691,44 +691,23 @@
     "title": "Core Team"
   }, {
     "members": [{
-      "name": "You?",
-      "photoUrl": "/images/people/you.jpg",
+      "name": "Nishant Srivastava",
+      "photoUrl": "/images/people/nishant_srivastava.jpg",
       "socials": [{
-        "icon": "facebook",
-        "link": "https://www.facebook.com/",
-        "name": "Facebook"
-      }, {
         "icon": "twitter",
-        "link": "https://twitter.com/",
+        "link": "https://twitter.com/NisRulz",
         "name": "Twitter"
       }],
-      "title": "Applications Lead"
+      "title": "Apps Lead"
     }, {
-      "name": "You?",
-      "photoUrl": "/images/people/you.jpg",
+      "name": "Drew Ogryzek",
+      "photoUrl": "/images/people/drew_ogryzek.jpg",
       "socials": [{
-        "icon": "facebook",
-        "link": "https://www.facebook.com/",
-        "name": "Facebook"
-      }, {
         "icon": "twitter",
-        "link": "https://twitter.com/",
+        "link": "https://twitter.com/drew_bro",
         "name": "Twitter"
       }],
       "title": "Cloud Lead"
-    }, {
-      "name": "You?",
-      "photoUrl": "/images/people/you.jpg",
-      "socials": [{
-        "icon": "facebook",
-        "link": "https://www.facebook.com/",
-        "name": "Facebook"
-      }, {
-        "icon": "twitter",
-        "link": "https://twitter.com/",
-        "name": "Twitter"
-      }],
-      "title": "Hackathon Lead"
     }],
     "title": "Track Leads"
   }],
